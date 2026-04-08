@@ -1,0 +1,3 @@
+https://data.chhs.ca.gov/dataset/rates-of-preventable-hospitalizations-for-selected-medical-conditions-by-county
+
+https://data.chhs.ca.gov/dataset/hospital-inpatient-characteristics-by-facility-pivot-profile 

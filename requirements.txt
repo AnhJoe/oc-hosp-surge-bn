@@ -1,0 +1,23 @@
+# Data Wrangling
+pandas
+numpy
+scipy
+openpyxl  # Required for reading .xlsx pivot files
+
+# Bayesian Modeling
+pymc
+pystan
+arviz
+bambi
+
+# EDA & Visualization
+matplotlib
+seaborn
+plotly
+missingno
+graphviz
+pygraphviz 
+
+# Jupyter/Colab Support
+ipykernel
+nbformat
