@@ -22,3 +22,4 @@ graphviz
 # Jupyter/Colab Support
 ipykernel
 nbformat
+gdown
