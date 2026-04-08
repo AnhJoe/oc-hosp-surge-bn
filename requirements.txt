@@ -16,7 +16,6 @@ seaborn
 plotly
 missingno
 graphviz
-pygraphviz 
 
 # Jupyter/Colab Support
 ipykernel
