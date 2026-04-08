@@ -1,8 +1,10 @@
-# Data Wrangling
+# DS & ML Libraries
 pandas
 numpy
 scipy
-openpyxl  # Required for reading .xlsx pivot files
+statsmodels
+scikit-learn
+openpyxl
 
 # Bayesian Modeling
 pymc
